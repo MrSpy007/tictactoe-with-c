@@ -40,7 +40,7 @@ int main()
     }
     check_diagonal();
     }
-    check_diagonal();
+
     return 0;
 }
 
